@@ -1,0 +1,48 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: #222;
+}
+
+#cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    margin-top: 20px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.cabecalho-logo a {
+    display: flex;
+    gap: 7px;
+
+    text-decoration: none;
+    text-transform: uppercase;
+
+    font-size: 26px;
+}
+
+.branco {
+    color: white;
+}
+
+.vermelho {
+    color: red;
+}
+
+.cabecalho-menu-caixa {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.cabecalho-menu-caixa-item a {
+    text-decoration: none;
+    text-transform: uppercase;
+
+    font-size: 15px;
+
+    color: white;
+}
