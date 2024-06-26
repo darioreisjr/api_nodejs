@@ -1,4 +1,4 @@
-## 🔐 API Segura de Notas (Sugestão) 
+## 🔐 API Segura de Notas
 
 Este projeto parece ser uma API RESTful para gerenciamento de notas, construída com Node.js e utilizando banco de dados (provavelmente SQLite). A atenção à segurança (autenticação),  estrutura organizada e boas práticas sugerem um projeto bem estruturado. 
 
